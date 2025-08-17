@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+nltk==3.8.1
+openai==1.30.1
+langchain==0.2.1
+langchain-openai==0.1.6
+faker==25.8.0
+xgboost==2.0.3
+python-dotenv==1.0.1
+jupyter==1.0.0
+ipykernel==6.29.4
